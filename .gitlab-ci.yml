@@ -1,0 +1,42 @@
+stages:
+  - build
+  - pages
+  - deploy
+
+workflow:
+  rules:
+    - if: '$CI_COMMIT_REF_NAME =~ /^turboai/ || $CI_COMMIT_REF_NAME =~ /^highrise/'
+    - when: never
+
+
+build:
+  stage: build
+  tags:
+    - node-runner
+  script:
+    - echo " build"
+
+pages: # job 的名称必须要是pages
+  stage: pages
+  retry:
+    max: 2
+  tags:
+    - node-runner
+  image: 192.168.10.207:10001/public/python:3.9.13-alpine3.16
+  script: # 生成站点
+    - mkdocs build --verbose
+  artifacts: 
+    paths:
+      - public
+
+deploy:
+  stage: deploy
+  tags:
+    - node-runner
+  image: 192.168.10.207:10001/public/ssh:127
+  script:
+    - REMOTE_HOST="192.168.10.200"
+    - REMOTE_USER="dell"
+    - sshpass -p "$PASSWORD_200" scp -r -o StrictHostKeyChecking=no public/*  $REMOTE_USER@$REMOTE_HOST:/opt/help-docs/highrise/
+    - echo "✅ Successfully deployed public to $REMOTE_USER@$REMOTE_HOST:/opt/help-docs/highrise/"
+  timeout: 30m
