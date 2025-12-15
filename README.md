@@ -18,7 +18,7 @@
 
 ### 1. 帮助文档的项目主体及对应的分支
 
-- NXON
+- NXON.AI
     > nxon
 
 ### 2. logo 与 favicon
@@ -29,7 +29,7 @@
 
 ### 3. [mkdocs.yml](mkdocs.yml) 中修改项目属性的变量
 - site_url: https://docs.nxon.ai
-- user_name: NXON
+- user_name: NXON.AI
 - cloud_url: cloud.nxon.ai
 
 ### 3. 触发 gitlab-runner,执行 [.gitlab-ci.yml](.gitlab-ci.yml)

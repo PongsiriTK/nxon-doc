@@ -13,7 +13,7 @@ The Fine-tune Service on {{ user_name }} provides a platform for fine-tuning pre
 
 ## Accessing Fine-tune Service
 
-To access the Fine-tune Service, navigate to the NXON platform and select "Fine-tune" from the Training Service menu.
+To access the Fine-tune Service, navigate to the NXON.AI platform and select "Fine-tune" from the Training Service menu.
 
 ![Menu Fine-tune](../images/{{ resource_dir_name }}/finetune_/menu_fine_tune.png){: style="width:30%" }
 

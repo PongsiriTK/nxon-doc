@@ -83,7 +83,7 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 extra:
-  user_name: NXON
+  user_name: NXON.AI
   resource_dir_name: nxon
   cloud_url: cloud.nxon.ai
   generator: false
