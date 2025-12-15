@@ -15,7 +15,7 @@ The **Organization** feature in the {{ user_name }} portal allows users to manag
 2. Fill in the required registration details, including username, email address, verification code, password, and confirm password.
 3. Enter your organization's name in the "Name your Organization" field.
 4. Agree to the {{ user_name }} platform's Privacy Policy and Terms of Service.
-5. Click the **Register** button to complete the registration and create your organization.
+5. Click the **Create Account** button to complete the registration and create your organization.
 
 ![Access org](features/images/{{ resource_dir_name }}/organization/org_signup.png)
 
