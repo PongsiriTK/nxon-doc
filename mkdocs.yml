@@ -84,6 +84,7 @@ plugins:
 
 extra:
   user_name: NXON.AI
+  company_name: NXON AI FACTORY PTY LTD
   resource_dir_name: nxon
   cloud_url: cloudflex.nxon.ai:20079
   landing_url: nxon.ai

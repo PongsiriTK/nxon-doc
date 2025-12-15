@@ -2,7 +2,7 @@
 
 ## **1. Introduction**
 ### **Scope**
-These Terms of Service ("Terms") are effective for all services provided by  {{ user_name }}  (" {{ user_name }} ," "we," "the Company") to users ("User," "you"), covering websites, hardware, software, cloud computing services, etc., regardless of whether you are an individual or representing a company or team.
+These Terms of Service ("Terms") are effective for all services provided by  {{ company_name }}  (" {{ user_name }} ," "we," "the Company") to users ("User," "you"), covering websites, hardware, software, cloud computing services, etc., regardless of whether you are an individual or representing a company or team.
 ### **Acceptance of Terms**
 Your use of the services indicates that you have read, understood, and agree to be bound by these Terms. If you do not agree, please do not use the services.  {{ user_name }}  reserves the right to modify these Terms at any time. The modified Terms will be published on the website and will take effect 10 days after publication. Your continued use of the services constitutes acceptance of the modified Terms.
 ### **Account Creation and Use**

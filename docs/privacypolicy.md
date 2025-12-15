@@ -1,7 +1,7 @@
 ﻿# Privacy Policy
 
 ## **I. Introduction**
-This Privacy Policy aims to inform you about how  {{ user_name }}  Company ("", "we", "the company") collects, uses, stores, protects, and shares your personal information. This policy applies to the processing of your personal information when you use our services (including websites, software, hardware, and cloud computing services) and interact with us. Please read this Privacy Policy carefully before using our services. By using our services, you agree to the terms and conditions of this Privacy Policy. If you do not agree with this policy, please do not use our services.
+This Privacy Policy aims to inform you about how  {{ company_name }}  Company (" {{ user_name }} ,", "we", "the company") collects, uses, stores, protects, and shares your personal information. This policy applies to the processing of your personal information when you use our services (including websites, software, hardware, and cloud computing services) and interact with us. Please read this Privacy Policy carefully before using our services. By using our services, you agree to the terms and conditions of this Privacy Policy. If you do not agree with this policy, please do not use our services.
 ## **II. Information Collection**
 ### **(A) Registration Information**
 When you create an account or register to use our services, we may collect information such as your name, email address, contact phone number, company name (if applicable), job title (if applicable), etc., in order to provide you with services, verify your identity, communicate with you, and manage your account.
