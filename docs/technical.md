@@ -25,9 +25,7 @@ Users can submit support requests through the {{ user_name }} official website o
 
 For immediate assistance, you can reach out to our support team via:
 
-- **Live Chat**: Available on the {{ user_name }} platform.
-- **Email**: support@{{ user_name }}.com
-- **Phone**: +1 (800) 123-4567
+- **Email**: support@nxon.ai
 
 !!! note
     Our dedicated support team is available Monday through Friday, from 9:00 AM to 5:00 PM PST, to assist you with any issues. For urgent matters outside of these hours, please leave a message, and we will respond as soon as possible on the next business day.
