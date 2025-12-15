@@ -16,7 +16,7 @@ You must also agree to the Terms of Service and Privacy Policy.
 **Note:** After submitting your registration, your account will be pending admin approval. You will be notified once your account is active.
 
 **Login:**
-Once approved, you can access the platform via the [Login page](https://{{ landing_url }}/login).
+Once approved, you can access the platform via the [Login page](https://{{ landing_url }}/sign-in).
 
 **Creating Your First GPU Pod:**
 On the {{ user_name }} platform, you can easily create a Pod and select the appropriate application for deployment. I will guide you through the process of creating a GPU Pod, choosing the right resource configuration (such as CPU, GPU, memory, etc.), selecting images or uploading custom code based on application needs, and completing the initialization of the GPU Pod to run applications or services.
