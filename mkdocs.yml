@@ -85,7 +85,8 @@ plugins:
 extra:
   user_name: NXON.AI
   resource_dir_name: nxon
-  cloud_url: cloud.nxon.ai
+  cloud_url: cloudflex.nxon.ai
+  landing_url: nxon.ai
   generator: false
   status:
     new: Recently added
