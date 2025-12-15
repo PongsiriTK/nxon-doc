@@ -29,9 +29,9 @@ You can also choose to deploy with Bare Metal services and set up server configu
 | Action | Description | Link |
 | --- | --- | --- |
 | Create an Account | Sign up for a new {{ user_name }} account. | [Sign up](https://{{         landing_url }}/sign-up) |
-| Launch an Instance | Start a GPU instance to begin using compute resources. | [Create Instance](https://{{ cloud_url }}/gpupod) |
-| Using Storage | Set up shared file systems for your workloads. | [Storage](https://{{ cloud_url }}/storage/file) |
-| Invite Members | Invite your colleagues to join your organization. | [Organization](https://{{ cloud_url }}/setting/org) |
+| Launch an Instance | Start a GPU instance to begin using compute resources. | [Create Instance](http://{{ cloud_url }}/gpupod) |
+| Using Storage | Set up shared file systems for your workloads. | [Storage](http://{{ cloud_url }}/storage/file) |
+| Invite Members | Invite your colleagues to join your organization. | [Organization](http://{{ cloud_url }}/setting/org) |
 
 ## Next Step
 
